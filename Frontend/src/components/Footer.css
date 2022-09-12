@@ -1,0 +1,30 @@
+.FooterWrapper {
+    height: 100px;
+    background: #244d61;
+    height: 200px;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    color: white;
+}
+
+.LinksFooter {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.Sublink {
+    cursor: pointer;
+}
+
+.MediaFooter {
+    border: 5px;
+    border-color: black;
+    display: grid;
+}
+
+.LinksHeader {
+    cursor: pointer;
+}

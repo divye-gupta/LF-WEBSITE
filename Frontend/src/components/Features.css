@@ -1,0 +1,26 @@
+.CustmGrid {
+    display: grid;
+    padding: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.GridItem {
+    background: white;
+    height: 300px;
+    margin: 10px;
+    width: 200px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.CustDetails {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
